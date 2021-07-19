@@ -20,6 +20,7 @@
   * Water Intake
   * Diet recipes
 * ChatBot/Assistant
+* Push Notifications
 * Graphs for Analysis of the different trackers
 * Different modes (Cycle tracking, Trying to get pregnant, Already pregnant)
 
