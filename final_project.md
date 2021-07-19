@@ -1,7 +1,7 @@
 # Female Health & Well-being App
 
 ## Description:
-***An application for women to take control of their reproductive health and well-being. While also creating a safe space where they can share their thoughts and experiences***
+***An application for women to take control of their reproductive health and well-being. While also creating a safe space where they can share their thoughts and experiences.***
 
 ## Features:
 * Cycle Tracking
