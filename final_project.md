@@ -1,24 +1,24 @@
 # Female Health & Well-being App
 
 ## Description:
-***An application for women to take control of their reproductive health and well-being.***
+***An application for women to take control of their reproductive health and well-being. While also creating a safe space where they can share their thoughts and experiences***
 
 ## Features:
 * Cycle Tracking
-* Flow (Light, Medium, Heavy)
-* Ovulation Tracking
-* Symptoms
-* Mood
-* Birth Control
-* Discharge
-* Sex
+  * Flow (Light, Medium, Heavy)
+  * Ovulation Tracking
+  * Symptoms
+  * Mood
+  * Birth Control
+  * Discharge
+  * Sex
 * Blogs
 * Weight loss app
-* Step Counter
-* Calories
-* Exercise
-* Water Intake
-* Diet recipes
+  * Step Counter
+  * Calories
+  * Exercise
+  * Water Intake
+  * Diet recipes
 * ChatBot/Assistant
 * Graphs for Analysis of the different trackers
 * Different modes (Cycle tracking, Trying to get pregnant, Already pregnant)
